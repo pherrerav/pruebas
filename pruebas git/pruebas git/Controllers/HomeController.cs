@@ -11,7 +11,8 @@ namespace pruebas_git.Controllers
         public int AgregarRegistro()
         {
             int respuesta = 1;
-            return respuesta;
+            int otravariable = 3;
+            return respuesta * otravariable;
         }
     }
 }
