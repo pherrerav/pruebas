@@ -13,5 +13,10 @@ namespace pruebas_git.Controllers
             int respuesta = 1;
             return respuesta;
         }
+        public int ModificarRegistro()
+        {
+            int respuesta = 1;
+            return respuesta;
+        }
     }
 }
